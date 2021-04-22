@@ -29,6 +29,8 @@ public class Main {
 //        tasks.add(task2);
 //        tasks.add(task3);
 //        tasks.add(task4);
+
+
         List<Task> tasks = Arrays.asList(task1, task2, task3, task4);
         System.out.println("Taski z fora");
         for (Task t:tasks) {
